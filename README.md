@@ -10,6 +10,9 @@ Una aplicación web sencilla para organizar un sorteo de **amigo secreto** entre
 - 🎲 **Sorteo aleatorio** con un solo clic.  
 - 🎨 **Interfaz simple y amigable**.  
 
+![captura](./img/captura_app.png)
+
+
 ## 🛠️ Tecnologías Utilizadas
 
 - HTML5  
